@@ -1,0 +1,40 @@
+{	
+	"name" : "Heroes Chronicles Enhanced",
+	"description" : "Heroes Chronicles Enhanced campaigns",
+	"version" : "1.0.0",
+	"author" : "Begrezen",
+	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
+	"modType" : "Maps",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"czech" : {
+		"name" : "Heroes Chronicles Enhanced",
+		"description" : "Předělané a vylepšené kampaně Heroes Chronicles",
+		"translations" : [
+			"translation/ChroniclesRemakeEnhanced/czech.json"
+		]
+	},
+	"english" : {
+		"name" : "Heroes Chronicles Enhanced",
+		"description" : "Heroes Chronicles Enhanced campaigns",
+		"translations" : [
+			"translation/ChroniclesRemakeEnhanced/english.json"
+		]
+	},
+	"polish" : {
+		"name" : "Ulepszone Kroniki",
+		"description" : "Trudniejsze wersje Kronik Tarnuma",
+		"translations" : [
+			"translation/ChroniclesRemakeEnhanced/polish.json"
+		]
+	}
+
+}
+
+

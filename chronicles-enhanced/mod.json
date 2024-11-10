@@ -1,0 +1,16 @@
+{	
+	"name" : "Heroes Chronicles Remake",
+	"description" : "Heroes Chronicles Remake",
+	"version" : "1.0.1",
+	"author" : "Begrezen",
+	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
+	"modType" : "Maps",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release", "Polish translation in Remake is hybrid, English translation in Remake Enhanced is hybrid, Czech completely made using Heroes Launcher translator tool" ]
+	}
+}
