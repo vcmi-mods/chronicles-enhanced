@@ -1,0 +1,11 @@
+{
+	"images" :
+	[
+		{ "frame" : 6,   "file" : "HPS138.bmp"}, // christian - portraitTarnumKnight
+		{ "frame" : 102, "file" : "HPS137.bmp"}, // cragHack - portraitTarnumBarbarian
+		{ "frame" : 112, "file" : "HPS142.bmp"}, // bron - portraitTarnumBeastmaster
+		{ "frame" : 147, "file" : "HPS139.bmp"}, // dracon - portraitTarnumWizard
+		{ "frame" : 148, "file" : "HPS140.bmp"}, // gelu - portraitTarnumRanger
+		{ "frame" : 151, "file" : "HPS141.bmp"}  // mutare - portraitTarnumOverlord
+	]
+}
