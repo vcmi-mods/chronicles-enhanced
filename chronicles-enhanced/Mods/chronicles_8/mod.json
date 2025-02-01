@@ -1,0 +1,19 @@
+{	
+	"name" : "The Sword of Frost Enhanced",
+	"description" : "Enhanced eight Chronicle: The Sword of Frost",
+	"version" : "1.0.0",
+	"author" : "Begrezen",
+	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
+	"modType" : "Compatibility",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"depends" : [ "chronicles.chronicles_8" ],
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	}
+}
+
+

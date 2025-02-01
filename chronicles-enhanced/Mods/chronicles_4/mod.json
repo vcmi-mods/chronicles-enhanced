@@ -1,0 +1,19 @@
+{	
+	"name" : "Clash of the Dragons Enhanced",
+	"description" : "Enhanced fourth Chronicle: Clash of the Dragons",
+	"version" : "1.0.0",
+	"author" : "Begrezen",
+	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
+	"modType" : "Compatibility",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"depends" : [ "chronicles.chronicles_4" ],
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	}
+}
+
+

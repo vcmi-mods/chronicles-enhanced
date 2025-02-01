@@ -1,0 +1,19 @@
+{	
+	"name" : "Conquest of the Underworld Enhanced",
+	"description" : "Enhanced second Chronicle: Conquest of the Underworld",
+	"version" : "1.0.0",
+	"author" : "Begrezen",
+	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
+	"modType" : "Compatibility",
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"depends" : [ "chronicles.chronicles_2" ],
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	}
+}
+
+
