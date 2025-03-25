@@ -1,7 +1,7 @@
 {	
 	"name" : "Heroes Chronicles Enhanced",
 	"description" : "Heroes Chronicles Enhanced campaigns made by Begrezen",
-	"version" : "1.0.3",
+	"version" : "1.0.4",
 	"author" : "Begrezen",
 	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
 	"modType" : "Maps",
@@ -12,6 +12,7 @@
 	"depends" : [ "chronicles" ],
 	"changelog" : 
 	{ 
+		"1.0.4" : [ "English as deafult campaigns language" ],
 		"1.0.3" : [ "Mod reorganisation (may break saves)" ],
 		"1.0.2" : [ "Better integration" ],
 		"1.0.1" : [ "Added Swedish" ],
@@ -23,13 +24,6 @@
 		"description" : "Předělané a vylepšené kampaně Heroes Chronicles",
 		"translations" : [
 			"translation/ChroniclesRemakeEnhanced/czech.json"
-		]
-	},
-	"english" : {
-		"name" : "Heroes Chronicles Enhanced",
-		"description" : "Heroes Chronicles Enhanced campaigns",
-		"translations" : [
-			"translation/ChroniclesRemakeEnhanced/english.json"
 		]
 	},
 	"polish" : {
