@@ -1,7 +1,7 @@
 {	
 	"name" : "Heroes Chronicles Enhanced",
 	"description" : "Heroes Chronicles Enhanced campaigns made by Begrezen",
-	"version" : "1.0.4",
+	"version" : "1.0.5",
 	"author" : "Begrezen",
 	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
 	"modType" : "Maps",
@@ -12,6 +12,7 @@
 	"depends" : [ "chronicles" ],
 	"changelog" : 
 	{ 
+		"1.0.5" : [ "Added Russian" ],
 		"1.0.4" : [ "English as deafult campaigns language" ],
 		"1.0.3" : [ "Mod reorganisation (may break saves)" ],
 		"1.0.2" : [ "Better integration" ],
@@ -31,6 +32,13 @@
 		"description" : "Trudniejsze wersje Kronik Tarnuma",
 		"translations" : [
 			"translation/ChroniclesRemakeEnhanced/polish.json"
+		]
+	},
+	"russian" : {
+		"name" : "Хроники Героев (расширенные)",
+		"description" : "Хроники Героев (расширенные) кампании, созданные Begrezen",
+		"translations" : [
+			"translation/ChroniclesRemakeEnhanced/russian.json"
 		]
 	}
 }
