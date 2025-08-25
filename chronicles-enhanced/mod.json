@@ -1,25 +1,37 @@
-{	
+{
 	"name" : "Heroes Chronicles Enhanced",
 	"description" : "Heroes Chronicles Enhanced campaigns made by Begrezen",
 	"version" : "1.0.5",
 	"author" : "Begrezen",
 	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
 	"modType" : "Maps",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.6.0"
 	},
-	"depends" : [ "chronicles" ],
-	"changelog" : 
-	{ 
-		"1.0.5" : [ "Added Russian" ],
-		"1.0.4" : [ "English as deafult campaigns language" ],
-		"1.0.3" : [ "Mod reorganisation (may break saves)" ],
-		"1.0.2" : [ "Better integration" ],
-		"1.0.1" : [ "Added Swedish" ],
-		"1.0.0" : [ "Initial release" ]
+	"depends" : [
+		"chronicles"
+	],
+	"changelog" : {
+		"1.0.5" : [
+			"Added Russian"
+		],
+		"1.0.4" : [
+			"English as deafult campaigns language"
+		],
+		"1.0.3" : [
+			"Mod reorganisation (may break saves)"
+		],
+		"1.0.2" : [
+			"Better integration"
+		],
+		"1.0.1" : [
+			"Added Swedish"
+		],
+		"1.0.0" : [
+			"Initial release"
+		]
 	},
-	
+
 	"czech" : {
 		"name" : "Heroes Chronicles Enhanced",
 		"description" : "Předělané a vylepšené kampaně Heroes Chronicles",
@@ -42,5 +54,3 @@
 		]
 	}
 }
-
-
