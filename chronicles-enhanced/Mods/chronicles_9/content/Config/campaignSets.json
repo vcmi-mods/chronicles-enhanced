@@ -1,0 +1,22 @@
+{
+	"chr":
+	{
+		"images" : [ {"x": 0, "y": 0, "name":"CampaignBackground5"} ],
+		"exitbutton" : {"x": 658, "y": 482, "name":"CMPSCAN" },
+		"nextbutton" : {"x": 715, "y": 5, "name":"campaigns/next" },
+		"backbutton" : {"x": 5, "y": 5, "name":"campaigns/back" },
+		"items":
+		[
+			{ "id": 1, "x":90,  "y":72,  "file":"Maps/Chronicles/Hc1_Main", "image":"CampaignHc1Image", "video":"", "requires": [], "optional": true },
+			{ "id": 2, "x":539, "y":72,  "file":"Maps/Chronicles/Hc2_Main", "image":"CampaignHc2Image", "video":"", "requires": [], "optional": true },
+			{ "id": 3, "x":43, "y":245,  "file":"Maps/Chronicles/Hc3_Main", "image":"CampaignHc3Image", "video":"", "requires": [], "optional": true },
+			{ "id": 4, "x":313,  "y":244, "file":"Maps/Chronicles/Hc4_Main", "image":"CampaignHc4Image", "video":"", "requires": [], "optional": true },
+			{ "id": 5, "x":586, "y":244, "file":"Maps/Chronicles/Hc5_Main", "image":"CampaignHc5Image", "video":"", "requires": [], "optional": true },
+			
+			{ "id": 6, "x":90,  "y":72, "file":"Maps/Chronicles/Hc6_Main", "image":"CampaignHc6Image", "video":"", "requires": [], "optional": true },
+			{ "id": 7, "x":539, "y":72, "file":"Maps/Chronicles/Hc7_Main", "image":"CampaignHc7Image", "video":"", "requires": [], "optional": true },
+			{ "id": 8, "x":43, "y":245, "file":"Maps/Chronicles/Hc8_Main", "image":"CampaignHc8Image", "video":"", "requires": [], "optional": true },
+			{ "id": 9, "x":586, "y":244, "file":"Maps/Chronicles/Hc9_Main", "image":"CampaignHc9Image", "video":"", "requires": [], "optional": true }
+		]
+	}
+}
