@@ -1,0 +1,14 @@
+{
+    "author": "Hero_of_light, Aphra, VCMI Team",
+    "contact": "vcmi.eu",
+    "description": "Heroes Chronicles 9 - Glory of War",
+    "modType": "Expansion",
+    "name": "9 - Glory of War",
+    "version": "1.0",
+	"compatibility" : {
+		"min" : "1.7"
+	},
+	"depends" : [
+		"hota.mapSupport"
+	]
+}
