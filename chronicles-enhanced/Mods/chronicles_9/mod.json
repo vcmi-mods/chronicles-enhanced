@@ -9,6 +9,6 @@
 		"min" : "1.7"
 	},
 	"depends" : [
-		"hota.mapSupport"
+		"hota.mapsupport"
 	]
 }

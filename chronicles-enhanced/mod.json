@@ -1,7 +1,7 @@
 {
 	"name" : "Heroes Chronicles Enhanced",
 	"description" : "Heroes Chronicles Enhanced campaigns made by Begrezen",
-	"version" : "1.0.5",
+	"version" : "1.0.6",
 	"author" : "Begrezen",
 	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
 	"modType" : "Maps",
@@ -12,6 +12,9 @@
 		"chronicles"
 	],
 	"changelog" : {
+		"1.0.6" : [
+			"Fix for 3rd map nad 5th map of Warlords of the Wasteland chronicle"
+		],
 		"1.0.5" : [
 			"Added Russian"
 		],
