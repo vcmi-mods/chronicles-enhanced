@@ -1,17 +1,20 @@
 {
 	"name" : "Heroes Chronicles Enhanced",
 	"description" : "Heroes Chronicles Enhanced campaigns made by Begrezen",
-	"version" : "1.0.6",
+	"version" : "1.0.7",
 	"author" : "Begrezen",
 	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
 	"modType" : "Maps",
 	"compatibility" : {
-		"min" : "1.6.0"
+		"min" : "1.7.0"
 	},
 	"depends" : [
 		"chronicles"
 	],
 	"changelog" : {
+		"1.0.7" : [
+			"Added 9th fan made Chronicle - The Glory of War"
+		],
 		"1.0.6" : [
 			"Fix for 3rd map nad 5th map of Warlords of the Wasteland chronicle"
 		],
