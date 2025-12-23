@@ -10,5 +10,33 @@
 	},
 	"depends" : [
 		"hota.mapsupport"
-	]
+	],
+	"german" : {
+		"name" : "9 - Glory of War",
+		"description": "Heroes Chronicles 9 - Glory of War",
+		"translations" : [
+			"translation/german.json"
+		]
+	},
+    "czech" : {
+		"name" : "9 - Glory of War",
+		"description": "Heroes Chronicles 9 - Glory of War",
+		"translations" : [
+			"translation/czech.json"
+		]
+    },
+    "polish" : {
+		"name" : "9 - Glory of War",
+		"description": "Heroes Chronicles 9 - Glory of War",
+		"translations" : [
+			"translation/polish.json"
+		]
+    },
+    "ukrainian" : {
+		"name" : "9 - Glory of War",
+		"description": "Heroes Chronicles 9 - Glory of War",
+		"translations" : [
+			"translation/ukrainian.json"
+		]
+    }
 }
