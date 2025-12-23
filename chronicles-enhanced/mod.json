@@ -1,7 +1,7 @@
 {
 	"name" : "Heroes Chronicles Enhanced",
 	"description" : "Heroes Chronicles Enhanced campaigns made by Begrezen",
-	"version" : "1.0.7",
+	"version" : "1.0.8",
 	"author" : "Begrezen",
 	"contact" : "https://www.forum.acidcave.net/topic.php?TID=3892",
 	"modType" : "Maps",
@@ -12,6 +12,9 @@
 		"chronicles"
 	],
 	"changelog" : {
+		"1.0.8" : [
+			"Added German, Czech and Ukrainian AI translation for 9th fan made Chronicle - The Glory of War. Polish is added only as placeholder to place there official Polish texts."
+		],
 		"1.0.7" : [
 			"Added 9th fan made Chronicle - The Glory of War"
 		],
