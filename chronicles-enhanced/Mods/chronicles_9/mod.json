@@ -15,28 +15,28 @@
 		"name" : "9 - Glory of War",
 		"description" : "Heroes Chronicles 9 - Glory of War",
 		"translations" : [
-			"translation/german.json"
+			"config/translation/german.json"
 		]
 	},
 	"czech" : {
 		"name" : "9 - Glory of War",
 		"description" : "Heroes Chronicles 9 - Glory of War",
 		"translations" : [
-			"translation/czech.json"
+			"config/translation/czech.json"
 		]
 	},
 	"polish" : {
 		"name" : "9 - Glory of War",
 		"description" : "Heroes Chronicles 9 - Glory of War",
 		"translations" : [
-			"translation/polish.json"
+			"config/translation/polish.json"
 		]
 	},
 	"ukrainian" : {
 		"name" : "9 - Glory of War",
 		"description" : "Heroes Chronicles 9 - Glory of War",
 		"translations" : [
-			"translation/ukrainian.json"
+			"config/translation/ukrainian.json"
 		]
 	}
 }
